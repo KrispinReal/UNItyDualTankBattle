@@ -61,12 +61,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\mainMenu.cs" />
-    <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Users/P_T4A/Desktop/T4A_ČT_PRA/UNITYtanks/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
-    </Reference>
+    <Compile Include="Assets\Scripts\mainMenu.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>D:/Users/P_T4A/Desktop/T4A_ČT_PRA/UNITYtanks/New Unity Project/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.PackageManagerUI.Editor">
+      <HintPath>D:/Users/P_T4A/Desktop/T4A_ČT_PRA/UNITYtanks/New Unity Project/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
